@@ -128,6 +128,7 @@ def adding_to_dennis
         }
      }
 programmer_hash[:dennis_ritchie][:languages][1] = "Assembly"
-binding.pry
+#binding.pry
 return programmer_hash
+#binding.pry
 end
